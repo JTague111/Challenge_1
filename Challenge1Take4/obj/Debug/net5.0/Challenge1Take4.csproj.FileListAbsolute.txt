@@ -1,0 +1,16 @@
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\Challenge1Take4.exe
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\Challenge1Take4.deps.json
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\Challenge1Take4.runtimeconfig.json
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\Challenge1Take4.runtimeconfig.dev.json
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\Challenge1Take4.dll
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\ref\Challenge1Take4.dll
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\bin\Debug\net5.0\Challenge1Take4.pdb
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.csproj.AssemblyReference.cache
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.AssemblyInfoInputs.cache
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.AssemblyInfo.cs
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.csproj.CoreCompileInputs.cache
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.dll
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\ref\Challenge1Take4.dll
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.pdb
+C:\Users\Jtagu\source\repos\Challenge1Take4\Challenge1Take4\obj\Debug\net5.0\Challenge1Take4.genruntimeconfig.cache
